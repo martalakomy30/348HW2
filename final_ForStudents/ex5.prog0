@@ -1,0 +1,18 @@
+{
+  read	x;
+
+  if  (x < 10)
+  {
+    print x * 5;
+  }
+  else
+  {
+    i = 5;
+
+    while  (i > 0)
+    {
+      print i;
+      i = i - 1;
+    }
+  }
+}
